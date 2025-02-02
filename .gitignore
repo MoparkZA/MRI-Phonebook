@@ -1,0 +1,20 @@
+# Node.js and npm
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Visual Studio Code
+.vscode/
+
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+
+# Solution files
+phonebook.sln
+
+# Env file
+
+frontend/.env.local
